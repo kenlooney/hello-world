@@ -1,2 +1,2 @@
 # hello-world
-I am Kenneth Looney and finally learning how to use GitHub
+I am Kenneth Looney and finally learning how to use GitHub for my projects
