@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+I am Kenneth Looney and finally learning how to use GitHub
